@@ -1,0 +1,13 @@
+body {
+  overflow-x: hidden;
+}
+/* .container .row .button {
+  background-color: #00b0ff;
+  height: 80px;
+} */
+.menu {
+  background-color: #424242;
+}
+.content {
+  background-color: #eeeeee;
+}
